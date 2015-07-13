@@ -1,9 +1,6 @@
-body {
-    height:700px;
-    width:960px;
-    padding:5px; 
-    border: 2px dashed blue;
-    }
+p {
+	font-size: 10pt;
+}
 
 li {
     margin: 12px 0 3px 0;
@@ -16,4 +13,10 @@ li {
 
 kbd {
     color: blue;
+}
+
+footer {
+	float: bottom; 
+	text-align: center;
+	margin: 12px 0 3px 0;
 }

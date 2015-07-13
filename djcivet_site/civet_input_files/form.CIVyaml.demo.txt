@@ -1,6 +1,6 @@
 # CIVET coder template demonstration file
 
-h1:Template form for CIV-yaml demo files
+h3:Template form for CIV-yaml demo files
 
 radio: Type of incident: [typeincid]
 *Demonstration, One-sided Violent, Armed Clash
@@ -27,7 +27,7 @@ Enter names here
 
 p:
 
-textarea:Brief description of incident [descrp] cols = 72
+textarea:Brief description of incident [descrp] cols = 40
 Enter brief description here
 
 #p:
